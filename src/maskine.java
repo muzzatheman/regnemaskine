@@ -8,7 +8,7 @@ public class maskine {
         float b = input.nextFloat();
 
         System.out.println("plus");
-        System.out.println(a*b);
+        System.out.println(a+b);
 
         System.out.println("minus");
         System.out.println(a-b);
